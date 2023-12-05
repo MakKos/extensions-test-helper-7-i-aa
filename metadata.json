@@ -1,0 +1,8 @@
+{
+  "name": "Test extension (helper: instructor-assignment-author)",
+  "type": "helper",
+  "properties": {
+    "user_type": "instructor",
+    "component": "assignment-author"
+  }
+}
